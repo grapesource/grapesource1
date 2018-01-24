@@ -1,0 +1,117 @@
+body {
+	background-position: center;
+	text-align: center;
+	color: white;
+}
+
+.grapesource {
+	display:inline-block;
+	margin-top: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	margin-bottom: 0px;
+}
+
+
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 14%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.secondary_header {
+	width: 100%;
+	padding-top: 1px;
+	padding-bottom: 20px;
+	background-color: #505050;
+	clear: left;
+	
+}
+.container .secondary_header ul {
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 4px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 100%;
+}
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: -10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 14%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+
+.enter {
+	float: right;
+	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin-right: 25px;
+	margin-top: 8px;
+}
+
+.login:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.signup:hover {
+	color: #717070;
+	cursor: pointer;
+}
+
+.varietal ul li {
+	list-style: none;
+	font-size:18px;
+	float:left;
+	margin-top: 0px;
+	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	text-align: center;
+	width: 15%;
+	transition: all 0.3s linear;
+}
+.varietal ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+
+.varietal {
+	margin-left: 250px;
+	margin-top: 20px; 
+	background-color: #717070;
+}
+
+.logo {
+	width: 6%;
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 10px; 
+}
